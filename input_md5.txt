@@ -1,0 +1,15 @@
+9b0debc8a59cd4fd059037ae67c6ef38  armA.tsv
+ae38af40e2f712a34d2ec1c8e32113a3  armB.tsv
+12d690def95f12419ed705d4889f30dd  armA_emb.npy
+2d4aa7ae6daaead4af13c2b021eede6e  armB_emb.npy
+a9c57ef14d325e9f7bfc1dea650dabca  dark_raw.tsv
+aa086b6e99d5e84c44789b1a85bc71f1  uniprot_raw.tsv
+fd78cf0646680bc8ec665636ba48659f  nopfam_raw.tsv
+f54b48eaf5bc6c9b6a17f3e8d75b4954  armB_hits.m8
+1ef0abe302963ee859068f0c4caa4b4e  armA_clu_cluster.tsv
+f55ebdbda32662359438b882635312ce  armB_clu_cluster.tsv
+fda894cdd907a2d67cf7572eb75949cc  analysis_s2.py
+466fc84b6f4cea0cccbaa0f9483d101d  build_s2.py
+49888e314bbcd455699942cc1864df13  acquire_nopfam.py
+e10e9108e463980163c78f1d7356ac9b  cluster_search.sh
+8437eda4de9a3e4c05a98684e6cb9623  embed.py
